@@ -27,7 +27,7 @@ Installation:
 Requires a fresh Ubuntu 16.04 or Ubuntu 18.04 installation.
 
 ```
-curl https://raw.githubusercontent.com/DirtyHarryDev/Yiimp-Server-Installer/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/coolsd/Yiimp-Server-Installer/master/bootstrap.sh | bash
 ```
 
 
